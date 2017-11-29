@@ -1,3 +1,20 @@
+# Simple Redux-App
+
+Simple App consinsting of Redux functions for managing a Book Store.
+
+### How to run
+
+```
+> git clone https://github.com/Donwor/Simple-Redux-App/
+> npm install
+> npm start
+```
+
+
+
+
+
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
